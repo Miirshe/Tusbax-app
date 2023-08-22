@@ -37,8 +37,8 @@ const sp_increments = () => {
     });
 
     sp_reset.addEventListener('click', () => {
-
-        p_screen.innerHTML = 0;
+        value = 0
+        p_screen.innerHTML = value;
 
     })
 }

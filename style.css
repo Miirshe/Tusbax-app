@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    background-color: #242424;
+    color: #ffffffde;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-content: center;
+}
+
+
+/* .main {
+    background-color: #ffffffde;
+    color: #242424;
+    width: 60%;
+    margin: 40px auto;
+    height: 60vh
+} */
